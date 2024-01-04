@@ -1,1 +1,2 @@
-# Registration-form
+# ResponsiveRegistrationForm
+Responsive registration form with HTML and CSS
